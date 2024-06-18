@@ -1,0 +1,25 @@
+{
+
+    "description": "add 1 cent 2",
+    "manifest_version": 2,
+    "name": "1CENT2",
+    "version": "1.0",
+
+    "permissions": [
+        "*://*.marketplace.tf/*"
+  ],
+  
+    "content_scripts": [
+      {
+        "matches": [
+          "*://marketplace.tf/*",
+          "*://marketplace.tf/items/dota2/*",
+          "*://marketplace.tf/items/tf2/*"],
+        "js": ["1cent2.js"]
+      }
+    ],
+    
+  "icons": {
+    "16": "icons/border-48.png" 
+	}
+}

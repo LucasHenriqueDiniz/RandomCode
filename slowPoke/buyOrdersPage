@@ -1,0 +1,35 @@
+var i;
+var s;
+var names = []
+var preços = []
+var ambos = []
+
+money = document.querySelector('div.value-display:nth-child(6) > span:nth-child(1)').textContent.trim().substr(1)
+elements = document.getElementsByClassName('item-html-name')
+valores = document.querySelectorAll('td')
+
+  for (i = 0; i <499; i++) 
+  {
+    names.push(elements[i].textContent)
+  }
+
+var nameList = names.join().split(',')
+
+  for (s = 2; s < 2495; s+=5) 
+  {
+    preços.push(valores[s].textContent.trim())
+  }
+
+var preçosList = preços.join().split(',')
+
+  for (eoq = 0; eoq < 499; eoq++)
+       {
+         ambos.push(names[eoq] + " is for " + preços[eoq])
+       }
+       
+var ambosList = ambos.join().split(',')
+  
+localStorage.setItem('nomes', nameList)
+localStorage.setItem('preços', preçosList)
+localStorage.setItem('ambos', ambosList)
+localStorage.setItem('money', money)

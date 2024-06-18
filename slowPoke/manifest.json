@@ -1,0 +1,20 @@
+{
+
+  "description": "my extension to help myself and myself only",
+  "manifest_version": 2,
+  "name": "SLOWpoke",
+  "version": "1.0",
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["itemPage.js"],
+      "matches": ["https://marketplace.tf/buyorders?all=1""],
+      "js": ["buyOrder.js"],
+    } 
+  ]
+
+}
