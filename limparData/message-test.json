@@ -1,0 +1,514 @@
+[[1,[{
+  "targetChange": {
+    "targetChangeType": "ADD",
+    "targetIds": [
+      2
+    ]
+  }
+}
+]],[2,[{
+  "targetChange": {
+    "targetChangeType": "ADD",
+    "targetIds": [
+      4
+    ]
+  }
+}
+]],[3,[{
+  "targetChange": {
+    "targetChangeType": "ADD",
+    "targetIds": [
+      6
+    ]
+  }
+}
+]],[4,[{
+  "documentChange": {
+    "document": {
+      "name": "projects/sos-guaiba/databases/(default)/documents/lastupdate/H2YddCKzPWsUaOlGcZst",
+      "fields": {
+        "at": {
+          "timestampValue": "2024-05-05T21:35:51.888Z"
+        }
+      },
+      "createTime": "2024-05-05T02:17:46.684163Z",
+      "updateTime": "2024-05-05T21:36:49.796762Z"
+    },
+    "targetIds": [
+      4
+    ]
+  }
+}
+]],[5,[{
+  "targetChange": {
+    "targetChangeType": "CURRENT",
+    "targetIds": [
+      4
+    ],
+    "resumeToken": "CgkI5ZPzobz3hQM=",
+    "readTime": "2024-05-05T21:37:58.905317Z"
+  }
+}
+]],[6,[{
+  "documentChange": {
+    "document": {
+      "name": "projects/sos-guaiba/databases/(default)/documents/people/009hCiKhe4ssHtn5Jt8w",
+      "fields": {
+        "obs": {
+          "doubleValue": "NaN"
+        },
+        "SAÍDA": {
+          "doubleValue": "NaN"
+        },
+        "id": {
+          "integerValue": "4308"
+        },
+        "name": {
+          "stringValue": "Sheila Beatriz Silveira"
+        },
+        "origin": {
+          "doubleValue": "NaN"
+        },
+        "shelter": {
+          "stringValue": "IGREJA FLORIDA / PAZ"
+        },
+        "date": {
+          "stringValue": "04/05/2024 madrugada"
+        }
+      },
+      "createTime": "2024-05-05T10:47:45.273251Z",
+      "updateTime": "2024-05-05T10:47:45.273251Z"
+    },
+    "targetIds": [
+      6
+    ]
+  }
+}
+]],[7,[{
+  "documentChange": {
+    "document": {
+      "name": "projects/sos-guaiba/databases/(default)/documents/people/00ERXG8aVt58yi2VpRag",
+      "fields": {
+        "name": {
+          "stringValue": "Joel dos Santos Fortes 02/11/1970"
+        },
+        "SAÍDA": {
+          "doubleValue": "NaN"
+        },
+        "obs": {
+          "stringValue": "Origem Eldorado"
+        },
+        "origin": {
+          "stringValue": "Eldorado"
+        },
+        "shelter": {
+          "stringValue": "SERTÃO SANTANA"
+        },
+        "date": {
+          "stringValue": "05/05/2024 madrugada"
+        },
+        "id": {
+          "integerValue": "2924"
+        }
+      },
+      "createTime": "2024-05-05T10:46:30.270205Z",
+      "updateTime": "2024-05-05T10:46:30.270205Z"
+    },
+    "targetIds": [
+      6
+    ]
+  }
+}
+]],[8,[{
+  "documentChange": {
+    "document": {
+      "name": "projects/sos-guaiba/databases/(default)/documents/people/00l33Zm3tbNnGx0I5ukj",
+      "fields": {
+        "origin": {
+          "doubleValue": "NaN"
+        },
+        "obs": {
+          "doubleValue": "NaN"
+        },
+        "id": {
+          "integerValue": "5229"
+        },
+        "shelter": {
+          "stringValue": "ULBRA"
+        },
+        "name": {
+          "stringValue": "Bruno Lopes de Oliveira"
+        },
+        "ATUALIZAÇÃO": {
+          "stringValue": "05/05/2024 madrugada"
+        }
+      },
+      "createTime": "2024-05-05T20:20:23.343865Z",
+      "updateTime": "2024-05-05T20:20:23.343865Z"
+    },
+    "targetIds": [
+      6
+    ]
+  }
+}
+]],[9,[{
+  "documentChange": {
+    "document": {
+      "name": "projects/sos-guaiba/databases/(default)/documents/people/0159UJuPeq7PrDorf0ZY",
+      "fields": {
+        "origin": {
+          "doubleValue": "NaN"
+        },
+        "date": {
+          "stringValue": "05/05/2024 madrugada"
+        },
+        "name": {
+          "stringValue": "Miguel Santos da Silva"
+        },
+        "shelter": {
+          "stringValue": "SINDIGUA"
+        },
+        "obs": {
+          "stringValue": "ELDORADO"
+        },
+        "id": {
+          "integerValue": "11128"
+        }
+      },
+      "createTime": "2024-05-05T21:32:45.962772Z",
+      "updateTime": "2024-05-05T21:32:45.962772Z"
+    },
+    "targetIds": [
+      6
+    ]
+  }
+}
+]],[10,[{
+  "documentChange": {
+    "document": {
+      "name": "projects/sos-guaiba/databases/(default)/documents/people/016pjC6pTCVl9jDW1Cjr",
+      "fields": {
+        "SAÍDA": {
+          "doubleValue": "NaN"
+        },
+        "name": {
+          "stringValue": "Henrique Cardoso da Silva"
+        },
+        "date": {
+          "stringValue": "05/05/2024 madrugada"
+        },
+        "id": {
+          "integerValue": "2667"
+        },
+        "origin": {
+          "doubleValue": "NaN"
+        },
+        "obs": {
+          "doubleValue": "NaN"
+        },
+        "shelter": {
+          "stringValue": "ULBRA"
+        }
+      },
+      "createTime": "2024-05-05T10:46:16.246094Z",
+      "updateTime": "2024-05-05T10:46:16.246094Z"
+    },
+    "targetIds": [
+      6
+    ]
+  }
+}
+]],[11,[{
+  "documentChange": {
+    "document": {
+      "name": "projects/sos-guaiba/databases/(default)/documents/people/01NPxSjx5qWbIUrXXm2b",
+      "fields": {
+        "ATUALIZAÇÃO": {
+          "stringValue": "05/05/2024 madrugada"
+        },
+        "name": {
+          "stringValue": "LUANA DE SOUZA - 25 ANOS"
+        },
+        "origin": {
+          "doubleValue": "NaN"
+        },
+        "obs": {
+          "doubleValue": "NaN"
+        },
+        "id": {
+          "integerValue": "6879"
+        },
+        "shelter": {
+          "stringValue": "SINDIGUA"
+        }
+      },
+      "createTime": "2024-05-05T20:21:34.252236Z",
+      "updateTime": "2024-05-05T20:21:34.252236Z"
+    },
+    "targetIds": [
+      6
+    ]
+  }
+}
+]],[12,[{
+  "documentChange": {
+    "document": {
+      "name": "projects/sos-guaiba/databases/(default)/documents/people/01h2cxEVdOtNl9ZfowBp",
+      "fields": {
+        "origin": {
+          "doubleValue": "NaN"
+        },
+        "shelter": {
+          "stringValue": "IGREJA NS PAZ"
+        },
+        "date": {
+          "stringValue": "04/05/2024 Madrugada"
+        },
+        "obs": {
+          "doubleValue": "NaN"
+        },
+        "id": {
+          "integerValue": "11912"
+        },
+        "name": {
+          "stringValue": "Theylor Kaioha do Amaral Santana"
+        }
+      },
+      "createTime": "2024-05-05T21:33:21.634324Z",
+      "updateTime": "2024-05-05T21:33:21.634324Z"
+    },
+    "targetIds": [
+      6
+    ]
+  }
+}
+]],[13,[{
+  "documentChange": {
+    "document": {
+      "name": "projects/sos-guaiba/databases/(default)/documents/people/025vjUc7PDktQ0UObIXg",
+      "fields": {
+        "origin": {
+          "doubleValue": "NaN"
+        },
+        "id": {
+          "integerValue": "7467"
+        },
+        "name": {
+          "stringValue": "Morgana Rodrigues Pinto"
+        },
+        "obs": {
+          "doubleValue": "NaN"
+        },
+        "ATUALIZAÇÃO": {
+          "stringValue": "05/05/2024 TARDE"
+        },
+        "shelter": {
+          "stringValue": "CTG GOMES JARDIM"
+        }
+      },
+      "createTime": "2024-05-05T20:22:01.160084Z",
+      "updateTime": "2024-05-05T20:22:01.160084Z"
+    },
+    "targetIds": [
+      6
+    ]
+  }
+}
+]],[14,[{
+  "documentChange": {
+    "document": {
+      "name": "projects/sos-guaiba/databases/(default)/documents/people/027aTRFvpuJtB27HSsi6",
+      "fields": {
+        "shelter": {
+          "stringValue": "SINDIGUA"
+        },
+        "obs": {
+          "doubleValue": "NaN"
+        },
+        "date": {
+          "stringValue": "05/05/2024 madrugada"
+        },
+        "name": {
+          "stringValue": "Fabiana dos Santos"
+        },
+        "origin": {
+          "doubleValue": "NaN"
+        },
+        "id": {
+          "integerValue": "9658"
+        }
+      },
+      "createTime": "2024-05-05T21:31:40.992894Z",
+      "updateTime": "2024-05-05T21:31:40.992894Z"
+    },
+    "targetIds": [
+      6
+    ]
+  }
+}
+]],[15,[{
+  "documentChange": {
+    "document": {
+      "name": "projects/sos-guaiba/databases/(default)/documents/people/02GDWkIGN9Fneh2GWHEE",
+      "fields": {
+        "origin": {
+          "doubleValue": "NaN"
+        },
+        "id": {
+          "integerValue": "9682"
+        },
+        "name": {
+          "stringValue": "FATIMA LUCAS"
+        },
+        "shelter": {
+          "stringValue": "LINCK"
+        },
+        "date": {
+          "stringValue": "05/05/2024 madrugada"
+        },
+        "obs": {
+          "doubleValue": "NaN"
+        }
+      },
+      "createTime": "2024-05-05T21:31:42.146066Z",
+      "updateTime": "2024-05-05T21:31:42.146066Z"
+    },
+    "targetIds": [
+      6
+    ]
+  }
+}
+]],[16,[{
+  "documentChange": {
+    "document": {
+      "name": "projects/sos-guaiba/databases/(default)/documents/people/02XKMeSk9uw7PWT5xmS1",
+      "fields": {
+        "id": {
+          "integerValue": "5333"
+        },
+        "origin": {
+          "doubleValue": "NaN"
+        },
+        "shelter": {
+          "stringValue": "LIVRAMENTO"
+        },
+        "name": {
+          "stringValue": "Caroline Bortolin Pilar"
+        },
+        "ATUALIZAÇÃO": {
+          "stringValue": "05/05/2024 TARDE"
+        },
+        "obs": {
+          "doubleValue": "NaN"
+        }
+      },
+      "createTime": "2024-05-05T20:20:27.780663Z",
+      "updateTime": "2024-05-05T20:20:27.780663Z"
+    },
+    "targetIds": [
+      6
+    ]
+  }
+}
+]],[17,[{
+  "documentChange": {
+    "document": {
+      "name": "projects/sos-guaiba/databases/(default)/documents/people/02YejoNqD85rZ2Y2JNfd",
+      "fields": {
+        "id": {
+          "integerValue": "2451"
+        },
+        "shelter": {
+          "stringValue": "SERTÃO SANTANA"
+        },
+        "obs": {
+          "stringValue": "Origem Eldorado"
+        },
+        "origin": {
+          "stringValue": "Eldorado"
+        },
+        "SAÍDA": {
+          "doubleValue": "NaN"
+        },
+        "date": {
+          "stringValue": "05/05/2024 madrugada"
+        },
+        "name": {
+          "stringValue": "Fernando Ivair Nunes da Rocha 19/02/1977"
+        }
+      },
+      "createTime": "2024-05-05T10:46:04.625059Z",
+      "updateTime": "2024-05-05T10:46:04.625059Z"
+    },
+    "targetIds": [
+      6
+    ]
+  }
+}
+]],[18,[{
+  "documentChange": {
+    "document": {
+      "name": "projects/sos-guaiba/databases/(default)/documents/people/02qmnWyqrlZB8JrawtRC",
+      "fields": {
+        "obs": {
+          "doubleValue": "NaN"
+        },
+        "date": {
+          "stringValue": "04/05/2024 madrugada"
+        },
+        "SAÍDA": {
+          "doubleValue": "NaN"
+        },
+        "shelter": {
+          "stringValue": "ESCOLA ARLINDO S"
+        },
+        "name": {
+          "stringValue": "Jessica Clavel da Silva"
+        },
+        "origin": {
+          "doubleValue": "NaN"
+        },
+        "id": {
+          "integerValue": "2845"
+        }
+      },
+      "createTime": "2024-05-05T10:46:25.931052Z",
+      "updateTime": "2024-05-05T10:46:25.931052Z"
+    },
+    "targetIds": [
+      6
+    ]
+  }
+}
+]],[19,[{
+  "documentChange": {
+    "document": {
+      "name": "projects/sos-guaiba/databases/(default)/documents/people/04Ei8GjhAJiTDoUQCw1Q",
+      "fields": {
+        "obs": {
+          "doubleValue": "NaN"
+        },
+        "name": {
+          "stringValue": "Nicoly dos Santos"
+        },
+        "shelter": {
+          "stringValue": "Igreja Nossa Senhora de Fátima"
+        },
+        "date": {
+          "stringValue": "05/05/2024- noite"
+        },
+        "id": {
+          "integerValue": "11241"
+        },
+        "origin": {
+          "stringValue": "Eldorado do Sul"
+        }
+      },
+      "createTime": "2024-05-05T21:32:51.765960Z",
+      "updateTime": "2024-05-05T21:32:51.765960Z"
+    },
+    "targetIds": [
+      6
+    ]
+  }
+}
